@@ -1,2 +1,2 @@
 # Pyshare
-Share is caring
+Sharing is caring
